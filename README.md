@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @boxa72 aka Craig
+#- 👋 Hi, I’m @boxa72 aka Craig
 - 
 - 👀 I’m interested in coding, obviously, I code mainly in C++ but have recently developed a love for Rust.
 - 
