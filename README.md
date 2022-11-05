@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in coding, obviously, I code mainly in C++ but have recently developed a love for Rust.
 - 
-- ##I also code in Java, Python, C, C# and also dabble in Assembly ~~though not very goodly~~
+- I also code in Java, Python, C, C# and also dabble in Assembly ~~though not very goodly~~
 - 
 - 🌱 I’m currently learning Rust and I love it so far. I just find it to be a lot more expressive than C++
 - and it, the code, just seems to make more sense. I am also learning Russian. Don't ask me why, I just 
