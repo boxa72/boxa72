@@ -10,7 +10,7 @@
 - 
 - 💞️ I’m looking to collaborate on ANYTHING!!!
 - 
-- 📫 How to reach me, yeah about that. Just contact me on [ Twitter ] (https://twitter.com/boxa72) on the same handle as here...
+- 📫 How to reach me, yeah about that. Just contact me on [Twitter](https://twitter.com/boxa72) on the same handle as here...
 
 <!---
 boxa72/boxa72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
